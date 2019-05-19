@@ -6,4 +6,7 @@
 ## 实验
 * 实验一: discreate hopfield network
 * 实验二: 感知机
+<img src = "line1.gif"/>
+<img src = "line2.gif"/>
+<img src = "line3.gif"/>
 <img src = "line5.gif"/>
