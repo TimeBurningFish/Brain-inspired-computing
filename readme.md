@@ -5,3 +5,4 @@
 
 ## 实验
 * 实验一: discreate hopfield network
+* 实验二: 感知机
