@@ -9,9 +9,10 @@
 * 实验三: Hebb Learning
 * 实验四: LSTM
 * 实验五: HMax模型
-* 实验六:
-* 实验七:
-* 实验八:
+* 实验六: 拓扑ICA模型
+* 实验七: CNN手写字符识别
+* 实验八: BP算法
+* 实验九: GAN与Mnist
 
 ---
 * 实验二可视化补充
@@ -19,4 +20,5 @@
 <img src = "line2.gif"/>
 <img src = "line3.gif"/>
 <img src = "line5.gif"/>
+
 ---
